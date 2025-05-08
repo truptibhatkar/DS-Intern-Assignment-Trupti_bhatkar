@@ -111,6 +111,5 @@ Your commit history will be reviewed as part of the evaluation, so make sure to 
 ## Time Commitment
 
 This assignment is designed to be completed in approximately 4-6 hours.
-Deadline is 48 hours/2 days from when you receive the assignment.
 
 Good luck!
